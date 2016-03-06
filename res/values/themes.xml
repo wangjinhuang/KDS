@@ -1,0 +1,9 @@
+<resources>
+
+    <style name="SampleBase" parent="@android:style/Theme.Light" />
+
+    <style name="SampleTheme.BottomDrawer" parent="SampleBase">
+        <item name="menuDrawerStyle">@style/MenuDrawerStyle.Bottom</item>
+    </style>
+
+</resources>

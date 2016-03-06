@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#33b5e5"
+        android:gravity="center" >
+
+        <TextView
+            android:id="@+id/tvKD"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawableRight="@drawable/item_btn_menu"
+            android:text="顺丰快递"
+            android:textColor="#ffffff"
+            android:textSize="18sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:background="#ff4444"
+        android:gravity="center" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="简洁 迅速 准确 专业"
+            android:textColor="#fffbfb"
+            android:textSize="14sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="41dp" >
+
+        <EditText
+            android:id="@+id/etDingdan"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="36dp"
+            android:layout_marginLeft="30dp"
+            android:layout_gravity="center"
+            android:background="@drawable/shape"
+            android:hint="单号"
+            android:paddingLeft="12dp"
+            android:textColor="#808080"
+            android:textSize="17sp" />
+
+        <ImageButton
+            android:id="@+id/btnSpeach"
+            android:layout_width="100dp"
+            android:layout_height="80dp"
+            android:background="@drawable/voice" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btnSearch"
+        android:layout_width="159dp"
+        android:layout_height="40dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="45dp"
+        android:background="#33b5e5"
+        android:text="查询"
+        android:textColor="#ffffff"
+        android:textSize="15sp" />
+
+</LinearLayout>

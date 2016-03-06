@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">KD快递查询</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="msg_load_ing">努力加载中..</string>
+    <string name="def_comname">顺丰快递</string>
+    <string name="company_list">快递公司列表</string>
+    <string name="search">查询</string>
+    <string name="check_update_tips">正在检查更新......</string>
+    <string name="no_new_verson_tips">当前已是最新版本</string>
+    <string name="find_new_verson_tips">发现新版本</string>
+    <string name="downloading">开始下载......</string>
+    <string name="download_title">正在下载物流轨迹最新版......</string>
+    <string name="new_version">最新版本: </string>
+    <string name="at_version">当前版本: </string>
+    <string name="menu_check_update">检查更新</string>
+    <string name="menu_about_tips">关于信息</string>
+    <string name="now_download">下载更新</string>
+    <string name="ok">确定</string>
+    <string name="send">发送</string>
+    <string name="time">时间</string>
+    <string name="followInfo">跟踪信息</string>
+    <string name="cancel">取消</string>
+    <string name="menu_transform_company">切换快递</string>
+    <string name="menu_fadeback">建议反馈</string>
+    <string name="menu">菜 单</string>
+    <string name="menu_exit">退 出</string>
+    <string name="goback">返回</string>
+    <string name="express_post_id">单号</string>
+    <string name="input_express_number">请先输入快递单号吧</string>
+    <string name="express_number_error">单号暂未收录或已过期</string>
+    <string name="default_company_name">申通快递</string>
+    <string name="default_company_code">shentong</string>
+    <string name="loading">正在处理,请稍候......</string>
+    <string name="net_error">网络连接失败,请确认GPRS可用!</string>
+    <string name="verify_code_tips">输入验证码</string>
+    <string name="fadeBack_tips">建议反馈</string>
+    <string name="fadeBack_empty_tips">请输入点内容吧^_^</string>
+    <string name="fadeBack_complte_tips">谢谢您的反馈^_^</string>
+    <string name="fadeback_hint">说点建议吧^_^</string>
+    <string name="company_exception">快递公司数据错误,等会再试试吧!</string>
+    <string name="banner_text">简洁  迅速  准确  专业</string>
+    <string name="splansh_text">物流轨迹，触手可及</string>
+    <string name="menu_historical">历史记录</string>
+    <string name="removeAll">清空记录</string>
+    <string name="removeFull">清空完成</string>
+    <string name="deleteFull">删除成功</string>
+    <string name="remove">删除</string>
+    <string name="qi">起</string>
+    <string name="shuaxin">刷新</string>
+    <string name="update_msg">更新信息</string>
+    <string name="loading_verfy_code">正在获取验证码......</string>
+
+</resources>

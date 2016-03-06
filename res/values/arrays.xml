@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- 快递公司对应代码 -->
+	<string-array name="company_code">
+	    <item>shunfeng</item>
+	    <item>ems</item>	
+	    <item>shentong</item>	
+		<item>yuantong</item>
+		<item>yunda</item>	
+		<item>zhongtong</item>	
+		<item>zhaijisong</item>	
+		<item>debangwuliu</item>	
+		<item>lianbangkuaidi</item>	
+		<item>fedex</item>	
+		<item>rufengda</item>	
+		<item>tiandihuayu</item>	
+		<item>tiantian</item>	
+		<item>youshuwuliu</item>	
+		<item>longbanwuliu</item>		
+		<item>zhongtiewuliu</item>
+		<item>huitongkuaidi</item>
+		<item>ups</item>
+		<item>xinfengwuliu</item>
+		<item>yuntongkuaidi</item>
+		<item>jiayiwuliu</item>
+		<item>xinbangwuliu</item>
+		<item>shenganwuliu</item>
+		<item>huaxialongwuliu</item>
+		<item>shengfengwuliu</item>
+		<item>jinguangsudikuaijian</item>
+		<item>kuaijiesudi</item>
+	</string-array>
+	
+	<!-- 快递公司名称 -->
+	<string-array name="company_name">
+	    <item>顺丰快递</item>	
+	    <item>邮政EMS</item>	
+		<item>申通快递</item>	
+		<item>圆通速递</item>	
+		<item>韵达快运</item>		
+		<item>中通速递</item>		
+        <item>宅急送</item>		
+        <item>德邦物流</item>		
+        <item>联邦快递</item>	
+        <item>Fedex</item>
+        <item>如风达</item>
+        <item>华宇物流</item>
+        <item>天天快递</item>	
+        <item>优速物流</item>
+        <item>龙邦物流</item>
+        <item>中铁物流</item>
+        <item>汇通快运</item>
+        <item>UPS</item>
+        <item>信丰物流</item>
+        <item>运通快递</item>
+        <item>佳怡物流</item>
+        <item>新邦物流</item>	
+        <item>圣安物流</item>
+        <item>华夏龙</item>
+        <item>盛丰物流</item>
+        <item>京广速递</item>
+        <item>快捷速递</item>
+	</string-array>
+	
+	
+	<string-array name="company_logo">
+	    <item>shunfeng</item>
+	    <item>ems</item>	
+	    <item>shentong</item>	
+		<item>yuantong</item>
+		<item>yunda</item>	
+		<item>zhongtong</item>	
+		<item>zhaijisong</item>	
+		<item>debangwuliu</item>	
+		<item>lianbangkuaidi</item>	
+		<item>fedex</item>	
+		<item>rufengda</item>	
+		<item>tiandihuayu</item>	
+		<item>tiantian</item>	
+		<item>youshuwuliu</item>	
+		<item>longbanwuliu</item>		
+		<item>zhongtiewuliu</item>
+		<item>huitongkuaidi</item>
+		<item>ups</item>
+		<item>xinfengwuliu</item>
+		<item>yuntongkuaidi</item>
+		<item>jiayiwuliu</item>
+		<item>xinbangwuliu</item>
+		<item>shenganwuliu</item>
+		<item>huaxialongwuliu</item>
+		<item>shengfengwuliu</item>
+		<item>jinguangsudikuaijian</item>
+		<item>kuaijiesudi</item>
+	</string-array>
+	
+	<string-array name="SB_COMPANY">
+		<item>ems</item>
+		<item>shentong</item>	
+	</string-array>	
+</resources>
